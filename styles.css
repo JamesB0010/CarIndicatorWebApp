@@ -1,12 +1,5 @@
-html{
-    /* The image used */
-  background-image: url("susDog.jpg");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+video{
+  width: 100%;
+  max-width: 600px;
+  border: 1px solid #ccc;
 }
